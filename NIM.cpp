@@ -1,4 +1,6 @@
+
 //NIM dabs október 1997
+//Stolið október 2012 Jóhann Ingi Gunnarsson
 #include <iostream>
 #include <stdlib.h>
 #include <stdio.h>
